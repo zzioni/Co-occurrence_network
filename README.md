@@ -2,8 +2,7 @@
 
 ## 2022 Social Network Analysis term project
 
-Computing co-occurence of word in sentence
-
+Computing the co-occurrence of perfume scent
 
 Examples of result:
 
