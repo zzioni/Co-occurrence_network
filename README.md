@@ -2,7 +2,7 @@
 
 ## 2022 Social Network Analysis term project
 
-<span style="font-size:medium">Computing the co-occurrence of perfume scent</span>
+<div style="font-size:medium">Computing the co-occurrence of perfume scent</div>
 <br></br>
 <br></br>
 Examples of result:
